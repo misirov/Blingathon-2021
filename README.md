@@ -1,5 +1,5 @@
 # Blingathon-2021
-Files and final demo project for the 30 hour hackathon using blockchain technology.
+30 hour hackathon using blockchain technology.
 
 # Result
 We made it to the finals!
